@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner: Tao Blog
+owner: Tao
 email: aa@bb.com
 facebook_username:
 twitter_username:
