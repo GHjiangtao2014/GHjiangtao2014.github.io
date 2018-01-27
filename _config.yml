@@ -15,15 +15,10 @@ email: aa@bb.com
 facebook_username:
 twitter_username:
 github_username:
-<<<<<<< HEAD
-address: Guanghua Rd, GaoXin ShangQuan, Yanta Qu, Xian Shi, Shaanxi Sheng, China, 710068
-  #- line: 
-  #- line: 
-=======
-address: Guanghua Rd, GaoXin ShangQuan, Yanta Qu, 
-  - line: Xian Shi, Shaanxi Sheng, China,
-  - line: 710071
->>>>>>> 92e1ac5c3c978f4d284f0560e22270a9d7c47d71
+address: 
+  - line: 
+  - line: 
+
   # Feel free to add more lines here 
 telephone: 150112233
 copyright: Tao Jiang
