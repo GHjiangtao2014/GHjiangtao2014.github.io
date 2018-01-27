@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner: Tao
+owner: Tao' Blog
 email: aa@bb.com
 facebook_username:
 twitter_username:
@@ -19,7 +19,7 @@ address: Guanghua Rd, GaoXin ShangQuan, Yanta Qu, Xian Shi, Shaanxi Sheng, China
   - line:
   - line:
   # Feel free to add more lines here 
-telephone: 150
+telephone: 150112233
 copyright: Tao Jiang
 
 # API settings
