@@ -9,11 +9,10 @@
           {% for post in site.posts %}
             <li>
               <a href="{{ post.url }}"> 
-                <font size="10">
+                <font size="5">
                   {{ post.title }}
                 </font>
-              </a>
-              {{ post.excerpt }}              
+              </a> {{ post.excerpt }}              
             </li>
           {% endfor %}
         </ul>
