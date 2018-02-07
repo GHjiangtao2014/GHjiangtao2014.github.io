@@ -1,5 +1,5 @@
 
-Abstract: Presentation Writer by **Markdown Preview Enhanced**
+**Abstract:** Presentation Writer by **Markdown Preview Enhanced**
 powered by [reveal.js](https://github.com/hakimel/reveal.js)
 
 {{page.excerpt}}
