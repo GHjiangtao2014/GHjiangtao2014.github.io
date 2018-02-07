@@ -1,8 +1,14 @@
 
-**Abstract:** Presentation Writer by **Markdown Preview Enhanced**
-powered by [reveal.js](https://github.com/hakimel/reveal.js)
-
-{{page.excerpt}}
+---
+layout: post
+tags: HTML CSS jekyll Markdown
+date: 2018-01-01 13:06
+thumbnail: http://placehold.it/100x100
+title: Hello Github Pages
+published: true
+---
+Hello!!!
+<!--more-->
 
 ### 你好
 ```c
