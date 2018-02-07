@@ -1,13 +1,21 @@
 ---
-presentation:
-  enableSpeakerNotes: true
+layout: post
+tags: HTML CSS jekyll Markdown
+date: 2018-02-01 13:06
+thumbnail: http://placehold.it/100x100
+title: Hello Github Pages2
+published: true
 ---
 
-<!-- slide -->
-# Presentation Writer
-by **Markdown Preview Enhanced**
-powered by [reveal.js](https://github.com/hakimel/reveal.js)
-<br>
-<!-- slide -->
-# Hello 123455
-{{page.excerpt}}
+World!!!
+<!--more-->
+
+### 你好
+```c
+#include<stdio.h>
+void int main(int argc, char const *argv[]) {
+  /* code */
+  return 0;
+}
+
+```
